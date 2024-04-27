@@ -16,6 +16,7 @@ const side1 = 5;
 const side2 = 5;
 const side3 = 3;
 
+//  Conditions
 if (isIsoscelesTriangle(side1, side2, side3)) {
   console.log("The triangle is isosceles.");
 } else {
